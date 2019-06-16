@@ -3,3 +3,13 @@
 
 
 /////# refer to billboards.docx for project proposal sketch... #/////
+
+||edit on thinking servers, this was a challenge that panel indentified, of cost effectiveness
+||i am sugesting geo-tags, like gprs tags to identify each billboard, and the app will display ads local to that billboard
+||
+||
+||
+||
+||
+||
+||
